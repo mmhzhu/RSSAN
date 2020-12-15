@@ -1,5 +1,8 @@
 # RSSAN
 
+# Citation
+
+If you find useful RSSAN code in your research, we would appreciate a citation to the original paper:
 
 M. Zhu, L. Jiao, F. Liu, S. Yang and J. Wang, "Residual Spectral-Spatial Attention Network for Hyperspectral Image Classification," in IEEE Transactions on Geoscience and Remote Sensing, doi: 10.1109/TGRS.2020.2994057.
 
